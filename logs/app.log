@@ -1,0 +1,111 @@
+2025-04-10 12:10:08,726 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 12:10:08,733 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 12:10:08,739 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 12:10:13,520 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 12:10:13,536 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 12:10:13,553 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 12:10:16,698 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 12:10:16,708 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 12:10:16,718 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 12:10:18,124 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 12:10:18,133 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 12:10:18,138 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 12:10:18,964 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 12:10:18,974 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 12:10:18,980 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 12:10:21,042 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 12:10:21,050 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 12:10:21,055 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 12:10:33,215 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 12:10:33,228 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 12:10:33,236 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 14:53:16,015 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 14:53:16,037 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 14:53:16,047 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 14:53:20,383 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 14:53:20,395 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 14:53:20,403 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 14:53:21,151 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 14:53:21,162 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 14:53:21,171 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 14:53:22,317 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 14:53:22,333 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 14:53:22,344 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 14:53:22,605 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 14:53:22,616 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 14:53:22,624 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 14:53:26,108 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 14:53:26,120 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 14:53:26,130 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:41:16,416 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:41:16,426 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:41:16,439 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:18,752 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:18,759 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:18,766 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:20,622 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:20,628 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:20,638 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:20,685 — ucla_admissions.plots — INFO — Loss curve plotted successfully.
+2025-04-10 15:54:25,281 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:25,289 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:25,297 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:27,752 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:27,763 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:27,770 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:27,781 — ucla_admissions.plots — INFO — Loss curve plotted successfully.
+2025-04-10 15:54:29,455 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:29,466 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:29,476 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:31,809 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:31,819 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:31,824 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:32,952 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:32,959 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:32,963 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:33,430 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:33,441 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:33,450 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:37,124 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:37,138 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:37,146 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:37,459 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:37,467 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:37,474 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:38,588 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:38,594 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:38,598 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:38,948 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:38,960 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:38,969 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:40,442 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:40,451 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:40,456 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:40,833 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:40,841 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:40,849 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:42,100 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:42,106 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:42,111 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:43,543 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:43,553 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:43,561 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:46,453 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:46,465 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:46,473 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:48,624 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:48,630 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:48,640 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:49,343 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:49,355 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:49,365 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:49,889 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:49,902 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:49,908 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:53,846 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:53,853 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:53,859 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
+2025-04-10 15:54:53,872 — ucla_admissions.plots — INFO — Loss curve plotted successfully.
+2025-04-10 15:54:58,298 — ucla_admissions.dataset — INFO — Data loaded successfully with shape (500, 9).
+2025-04-10 15:54:58,310 — ucla_admissions.modeling.train — INFO — Loaded existing model.
+2025-04-10 15:54:58,317 — ucla_admissions.modeling.predict — INFO — Prediction made successfully.
